@@ -1,0 +1,16 @@
+{
+    "name": "nahidibrahimov/myframework",
+    "autoload": {
+        "psr-4": {
+            "Nahidibrahimov\\Myframework\\": "src/",
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nahid Ibrahimov",
+            "email": "nahidibrahimovv@gmail.com"
+        }
+    ],
+    "require": {}
+}
